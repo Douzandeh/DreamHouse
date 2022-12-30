@@ -91,4 +91,10 @@ body {
   .carousel-caption a{
     padding: 10px 15px;
   }
+
+  .carousel-caption p{
+    width: 100%;
+    line-height: 1.6;
+    font-size: 12px;
+  }
 }
