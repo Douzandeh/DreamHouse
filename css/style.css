@@ -72,6 +72,10 @@ body {
   height: 100vh;
 }
 
+.services .card-body i{
+  font-size: 50px;
+}
+
 
 /* * Responsive CSS */
 
