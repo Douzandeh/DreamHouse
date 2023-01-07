@@ -75,6 +75,16 @@ body {
 .services .card-body i{
   font-size: 50px;
 }
+.team .card-body i{
+  font-size: 20px;
+}
+
+.portfolio .card{
+  box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}
+.team .card{
+  box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}
 
 
 /* * Responsive CSS */
